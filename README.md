@@ -1,5 +1,5 @@
 <h1>Hello, I'm Bharat Kabra 🙋‍♂️</h1>
-<h2>💻Full Stack Developer</h2>
+<h2>💻 Working as Systems Engineer at Infosys | Freelance Software Engineer</h2>
 
 <hr>
 
