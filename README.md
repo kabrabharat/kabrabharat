@@ -10,6 +10,8 @@
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/Bharatkabra3"><img src="https://img.shields.io/badge/twitter-%2361DAFB.svg?&style=for-the-badge&logo=twitter&logoColor=white">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.upwork.com/freelancers/~0164d350ac5565cc91"><img src="https://img.shields.io/badge/upwork-%2361DAFB.svg?&style=for-the-badge&logo=upwork&logoColor=white">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <hr>
 <!-- 
 <h2>Tools & Technologies</h2>
