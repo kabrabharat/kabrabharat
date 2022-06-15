@@ -10,7 +10,7 @@
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/Bharatkabra3"><img src="https://img.shields.io/badge/twitter-%2361DAFB.svg?&style=for-the-badge&logo=twitter&logoColor=white">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="bharatkabra.herokuapp.com"><img src="https://img.shields.io/badge/user-%2300FF00.svg?&style=for-the-badge&logo=user&logoColor=white">
+<a href="bharatkabra.herokuapp.com"><img src="https://img.shields.io/badge/Website-%2300FF00.svg?&style=for-the-badge&logo=Website&logoColor=white">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <hr>
 <!-- 
