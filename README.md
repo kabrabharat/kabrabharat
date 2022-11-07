@@ -1,5 +1,5 @@
 <h1>Hello, I'm Bharat Kabra 🙋‍♂️</h1>
-<h2>💻 Working as Systems Engineer at Infosys | Freelance Software Engineer</h2>
+<h2>💻 Working as Senior Python Developer at Golden Eagle IT Technology | Data Engineer</h2>
 
 <hr>
 
@@ -9,8 +9,6 @@
 <a href="mailto:bharatkabra@outlook.in"><img src="https://img.shields.io/badge/mail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/Bharatkabra3"><img src="https://img.shields.io/badge/twitter-%2361DAFB.svg?&style=for-the-badge&logo=twitter&logoColor=white">
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://bharatkabra.herokuapp.com/"><img src="https://img.shields.io/badge/website-%23000000?style=for-the-badge&logo=About.me&logoColor=white">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <hr>
 <!-- 
