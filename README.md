@@ -1,7 +1,7 @@
-<h1>Hello, I'm Bharat Kabra 🙋‍♂️</h1>
-<!-- <h2>💻 Founder at UpcomingVerse</h2> -->
+<h1>Hello, I'm Bharat 🙋‍♂️</h1>
+<h3>💻 Founder at UpcomingVerse Tech Labs</h3>
 
-<h5>Software Engineer with experience of over 5 years in exploring, handling, and migrating Big Data, Data Science, Backend Development with Python, SQL and No SQL Databases, and Veeva Vault Systems</h5>
+<h5>Transforming Ideas into Intelligent Solutions | Data Science | GenAI | Data Engineering | Web Development</h5>
 
 <hr>
 
