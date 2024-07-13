@@ -1,7 +1,7 @@
 <h1>Hello, I'm Bharat 🙋‍♂️</h1>
-<h3>💻 Data Science Engineer | GenAI | Python</h3>
+<h3>💻 Data Science | Backend | GenAI | Python</h3>
 
-<h5>A seasoned Data Scientist and AI specialist with a passion for turning data into actionable insights. With a strong background in Machine Learning, Generative AI, and ETL using both Azure and AWS services, I bring a wealth of experience to your projects.</h5>
+<h5>A seasoned Data Scientist and AI specialist with a passion for turning data into actionable insights. With a strong background in Backend, Machine Learning, Generative AI, and ETL using both Azure and AWS services, I bring a wealth of experience to your projects.</h5>
 
 <hr>
 
