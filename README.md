@@ -1,32 +1,59 @@
-<h1>Hello, I'm Bharat 🙋‍♂️</h1>
-<h3>💻 Data Science | Data Engineering | Backend | GenAI | Python</h3>
+# Hey, I'm Bharat 👋
 
-<h5>A seasoned Data Scientist and AI specialist with a passion for turning data into actionable insights. With a strong background in Backend, Machine Learning, Generative AI, and ETL using both Azure and AWS services, I bring a wealth of experience to your projects.</h5>
+**Founder & Managing Director @ [UpcomingVerse Tech Labs](https://upcomingverse.ai)**
 
-<hr>
+I build AI products, ship SaaS, and help companies adopt AI - from strategy to production. My work spans product development, go-to-market, consulting, and hands-on engineering. I don't just write code - I build businesses around it.
 
-<h3>Feel free to reach me @</h3>
+---
 
-<a href="https://www.linkedin.com/in/bharatkabra/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:bharatkabra@outlook.in"><img src="https://img.shields.io/badge/mail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white">
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/Bharatkabra3"><img src="https://img.shields.io/badge/twitter-%2361DAFB.svg?&style=for-the-badge&logo=twitter&logoColor=white">
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<hr>
-<!-- 
-<h2>Tools & Technologies</h2>
-<p>
-   <img src="https://img.shields.io/badge/python%20-%23F7DF1E.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/java%20-%23F7DF1E.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
-   <br>
-   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
-   <br>
-   <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/-MySql-black?style=flat-square&logo=mysql&link=https://github.com/imickovski">
-   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/imickovski">
-</p> 
+### 🔨 What I'm Building
 
-<hr> -->
+| Product | What it does |
+|---|---|
+| **[UpcomingVerse Tech Labs](https://upcomingverse.com)** | The parent company - AI consulting, product development, and helping businesses integrate AI into their workflows at scale & custom software development |
+| **[EnrollVerse](https://enrollverse.com)** | AI-powered Resources & Ops Management for SMBs & Medium Scale Businesses — full employee lifecycle, payroll, AI workflows, leaves/attendances, tasks, Agentic resources, and more |
+| **[SubTracker](https://subtracker.online)** | Subscription tracking made simple - never lose money to forgotten subscriptions again |
+| **[APIChatBox](https://apichatbox.com)** | AI agents that helps your team recall every decision, action, and rationale instantly, accessable via slack/gmail |
+| **[TakeoffMVP](https://takeoffmvp.com/)** | Helping early founders go from idea to shipped MVP, fast |
+| **TradeVerse AI** | AI-powered trading journal — track, analyze, and uncover patterns in your trades with intelligent analytics |
+| 🔜 **More coming...** | Always cooking something new |
+
+---
+
+### ⚡ What I Work With in Tech
+
+**Languages & Frameworks**  
+`Python` · `Django` · `FastAPI` · `Node.js` · `JavaScript`
+
+**AI / ML**  
+`LangChain` · `LlamaIndex` · `OpenAI` · `Anthropic` · `HuggingFace` · `scikit-learn` · `Pandas` · `NumPy`· `Tensorflow`· `OpenCV`· `Pytorch`
+
+**Vector DBs & RAG**  
+`Pinecone` · `ChromaDB` · `FAISS` · `Embeddings` · `Retrieval-Augmented Generation`
+
+**Automation & Workflows**  
+`n8n` · `Webhooks` · `ETL Pipelines` · `Agentic Workflows`· `Claude Code / Codex`· `Lovable`· `Make`
+
+**Infrastructure**  
+`Docker` · `PostgreSQL` · `MySQL` · `Redis` · `AWS` · `Azure` · `GitHub Actions`
+
+**Frontend (when needed)**  
+`React` · `Appsmith` · `HTML/CSS`
+
+---
+
+### 📬 Reach Me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharatkabra/)&nbsp;
+[![Email](https://img.shields.io/badge/mail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:bharatkabra@outlook.in)&nbsp;
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Bharatkabra3)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bharatkabra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharatkabra&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
