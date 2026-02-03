@@ -49,11 +49,3 @@ I build AI products, ship SaaS, and help companies adopt AI - from strategy to p
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Bharatkabra3)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bharatkabra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharatkabra&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
